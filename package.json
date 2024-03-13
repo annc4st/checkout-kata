@@ -1,0 +1,14 @@
+{
+  "name": "checkout-kata",
+  "version": "1.0.0",
+  "description": "In a normal supermarket, things are identified using Stock Keeping Units, or SKUs. In our shop, we’ll use individual letters of the alphabet (A, B, C, and so on). Our goods are priced individually. In addition, some items are multipriced: buy n of them, and they’ll cost you y pounds. For example, item ‘A’ might cost 50 pounds individually, but this week we have a special offer: buy three ‘A’s and they’ll cost you 130. The current pricing and offers are as follows:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AS",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
